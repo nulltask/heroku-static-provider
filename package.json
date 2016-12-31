@@ -2,7 +2,15 @@
   "name": "heroku-static-provider",
   "version": "0.0.1",
   "private": true,
+  "scripts": {
+    "start": "nf start"
+  },
   "dependencies": {
-    "express": "~3.3.4"
+    "compression": "~1.6.2",
+    "express": "~4.14.0",
+    "morgan": "~1.7.0"
+  },
+  "devDependencies": {
+    "foreman": "~2.0.0"
   }
 }
