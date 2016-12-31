@@ -16,14 +16,18 @@ You need sign-in or sign-up to Heroku.
 ## Development
 
 0. Install packages.
-```bash
-$ npm install
-```
+
+    ```sh
+    $ npm install
+    ```
+
 0. Add or update files in `/public`.
 0. Run on the local machine.
-```bash
-$ npm start
-```
+
+    ```bash
+    $ npm start
+    ```
+
 0. Check on browser.
   - http://localhost:5000
 
